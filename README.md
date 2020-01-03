@@ -1,1 +1,1 @@
-# shared-merlin-res - shared resources for AsusWRT-Merlin scripts/addons
+# shared-jy - shared resources for AsusWRT-Merlin scripts/addons
