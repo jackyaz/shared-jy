@@ -1,1 +1,6 @@
-* text eol=lf
+*.png binary
+*.sh text eol=lf
+*.md text eol=lf
+*.asp text eol=lf
+*.js text eol=lf
+*.htm text eol=lf
